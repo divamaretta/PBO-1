@@ -22,24 +22,44 @@ Penggunaan double dalam program ini karena program ini menggunakan angka pecahan
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/Biodata.png)
 # program kelompok yang di lab
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%201.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%202.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%203.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%204.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%205.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%206.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%207.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%208.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%209.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2010.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2011.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab12.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2013.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2014.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2015.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2016.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2017.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2018.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2019.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2020.png)
+
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/lab%2021.png)
 
