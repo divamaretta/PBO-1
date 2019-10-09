@@ -15,7 +15,7 @@ Yang dipanggil adalah mer kendaraan dan nama kendaraan
 Penggunaan double dalam program ini karena program ini menggunakan angka pecahan. 
 # 3 tugas praktikum
 # luas permukaan bola
-![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/luas%20permukaan%20bola.png)
+![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/bola%20yang%20bener%20ges.png)
 # luas permukaan balok
 ![Alt Text](https://github.com/divamaretta/PBO-1/blob/master/permukaan%20balok%202.png)
 # biodata
